@@ -1,0 +1,77 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Maven: package WebShop05",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Maven: package WebShop05",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Maven: package WebShop05",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Maven: package WebShop05",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Maven: Rebuild SiteMesh WAR",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Maven: Verify SiteMesh JSPs",
+			"type": "shell",
+			"command": "mvn",
+			"args": [
+				"-DskipTests",
+				"package"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
